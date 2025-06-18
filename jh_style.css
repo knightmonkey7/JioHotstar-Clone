@@ -25,7 +25,7 @@ body::-webkit-scrollbar{
 
 .sidebar{
   display: flex;
-  height: 945px;
+  height: 100%;
   width: 120px;
   position: fixed;
   justify-content: center;
